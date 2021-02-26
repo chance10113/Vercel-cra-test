@@ -26,6 +26,7 @@ function App() {
         </a>
         !
       </h2>
+      <h2> THIS IS HOW YOU SPELL CHEESE!</h2>
       <p>
         <a
           href="https://github.com/vercel/vercel/tree/master/examples/create-react-app"
